@@ -1,2 +1,2 @@
 # hello-world
-Attempt to build a practice application for mobile devices.
+Attempt to build a practice log application for mobile devices.
